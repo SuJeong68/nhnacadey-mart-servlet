@@ -1,0 +1,13 @@
+
+k
+java:S1450"URemove the "basket" field and declare it as a local variable in the relevant methods.(øÚµÐ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(°ÙâÕüÿÿÿÿ
+?
+java:S54133")Verify that "remove()" is used correctly.(–´‚§
+?
+java:S54133")Verify that "remove()" is used correctly.(–´‚§
+?
+java:S5413-")Verify that "remove()" is used correctly.(Ô„ï½
+K
+java:S1128	"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
